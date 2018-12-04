@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/OrganisationS/MyApp1/_apis/build/status/pinnama74.pipelines-java)](https://dev.azure.com/OrganisationS/MyApp1/_build/latest?definitionId=3)
 
 # Contributing
 
